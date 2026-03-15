@@ -4,7 +4,7 @@ El objetivo es explorar cómo han cambiado estos indicadores a lo largo del tiem
 
 El análisis se presenta a través de un dashboard interactivo desarrollado en Power BI, que permite visualizar tendencias y cambios en los principales indicadores laborales.
 
-Herramientas utilizadas
+Herramientas utilizadas: 
 
 Power BI
 
@@ -24,7 +24,7 @@ Tasa de desempleo
 
 Salario mínimo legal en Colombia
 
-Principales hallazgos
+Principales hallazgos:
 
 La tasa de desempleo presenta un aumento significativo durante la pandemia del COVID-19 en 2020.
 
